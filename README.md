@@ -1,6 +1,6 @@
-### Hi, I'm [Isha] 👋
+### Hi, I'm Isha 👋
 
-2nd year B.Com student pursuing CMA (Cost & Management Accountant) at PSG College of Arts and Science. Building practical data analysis skills through hands-on projects — turning raw data into business insights using Excel, SQL, and financial modelling.
+2nd year B.Com CMA (Cost & Management Accountant) student at PSG College of Arts and Science. Building practical data analysis skills through hands-on projects — turning raw data into business insights using Excel, SQL, and financial modelling.
 
 🔍 **What I work with:** Excel (Pivot Tables, Advanced Formulas), Google Sheets, SQL (Queries, Aggregations), Financial Modelling, Power BI
 
@@ -14,4 +14,4 @@ Built an audit-style anomaly detection process across 3,300+ transactions, flagg
 
 
 
-📫 Reach me: [ishar5707@gmail.com]
+📫 Reach me: ishar5707@gmail.com
