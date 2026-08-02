@@ -24,6 +24,8 @@ Analyzed 255,000+ loan records to identify what drives borrower default — foun
 
 **[Financial Transaction Audit & Anomaly Detection](https://github.com/ishahr/audit-anomaly-detection)**
 Built an audit-style anomaly detection process across 3,300+ transactions, flagging duplicate payments, round-number bias, and threshold structuring.
+**[Company Financial Health Dashboard & 3-Year Forecast](https://github.com/ishahr/company-financial-dashboard)**
+SQL-driven analysis + Excel financial model + Power BI dashboard — identified a 36% logistics cost spike compressing margins, then
 
 
 
